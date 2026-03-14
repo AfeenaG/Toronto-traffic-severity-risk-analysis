@@ -29,23 +29,24 @@ Older adults are much more vulnerable in collisions.
   * Age 25–29 → **74%**
   * Age 75–79 → **83%**
 ![User](Images/User01-Predictive%20Probability%20of%20Severe%20Injury%20By%20Age%20Range_Redo.png)
+
 ### Dusk Lighting Creates Dangerous Conditions
 
 Collisions occurring during **dusk with artificial lighting** are nearly **twice as likely** to result in severe injury compared to daylight conditions.
 
-![Time](Images/Env1-Impact%20of%20Lighting%20Condition%20on%20Severity%20Odds_Redo)
+![Environment](Images/Env1-Impact%20of%20Lighting%20Condition%20on%20Severity%20Odds_Redo)
 
 ### Rush Hour Increases Severity Risk
 
 Morning commuting hours (6:00–8:59 AM) have the **highest predicted probability of severe injuries**.
-![Time](Images/Time01-Predicted%20Probability%20of%20Severe%20Injury%20by%20Time%20of%20Day_Redo.png)
+![Rush Hour](Images/Time01-Predicted%20Probability%20of%20Severe%20Injury%20by%20Time%20of%20Day_Redo.png)
 
 
 ### Late Fall Months Show Higher Risk
 
 The months **October, November, and December** show elevated predicted probabilities of severe collisions.
 
-![Time](Images/Time02-Predicted%20Probability%20of%20Severe%20Injury%20by%20Month_Redo.png)
+![Months](Images/Time02-Predicted%20Probability%20of%20Severe%20Injury%20by%20Month_Redo.png)
 ---
 
 # Business Problem
