@@ -43,6 +43,7 @@ Morning commuting hours (6:00–8:59 AM) have the **highest predicted probabilit
 
 The months **October, November, and December** show elevated predicted probabilities of severe collisions.
 
+![Time](Images/Time02-Predicted%20Probability%20of%20Severe%20Injury%20by%20Month_Redo.png)
 ---
 
 # Business Problem
