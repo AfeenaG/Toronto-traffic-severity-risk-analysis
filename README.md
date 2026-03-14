@@ -36,7 +36,7 @@ Collisions occurring during **dusk with artificial lighting** are nearly **twice
 ### Rush Hour Increases Severity Risk
 
 Morning commuting hours (6:00–8:59 AM) have the **highest predicted probability of severe injuries**.
-![Time](Images/Time02-Predicted%20Probability%20of%20Severe%20Injury%20by%20Month_Redo.png)
+![Time](Images/Time01-Predicted%20Probability%20of%20Severe%20Injury%20by%20Time%20of%20Day_Redo.png)
 
 
 ### Late Fall Months Show Higher Risk
