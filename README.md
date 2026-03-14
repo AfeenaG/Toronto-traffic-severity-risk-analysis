@@ -18,6 +18,8 @@ The results provide actionable insights that can support **transportation planne
 
 Pedestrians, cyclists, moped drivers, and motorcyclists face **13–34 times higher odds** of severe injury compared to drivers.
 
+![User](Images/User02-Relative%20Odds%20Of%20Severe%20Injury%20By%20Involvement%20Type.png)
+
 ### Age Significantly Increases Injury Severity
 
 Older adults are much more vulnerable in collisions.
