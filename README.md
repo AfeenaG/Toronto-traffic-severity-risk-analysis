@@ -178,12 +178,12 @@ The analysis includes several charts used to communicate findings.
 ### Predicted Probability of Severe Injury by Age
 
 Older adults show steadily increasing injury risk.
-![User](Images/User02-Relative%20Odds%20Of%20Severe%20Injury%20By%20Involvement%20Type.png)
+![User](Images/User01-Predictive%20Probability%20of%20Severe%20Injury%20By%20Age%20Range_Redo.png)
 ### Relative Odds by Involvement Type
 
 Pedestrians, cyclists, and motorcyclists face dramatically higher odds of severe injury.
-![User](Images/User01-Predictive%20Probability%20of%20Severe%20Injury%20By%20Age%20Range_Redo.png)
 
+![User](Images/User02-Relative%20Odds%20Of%20Severe%20Injury%20By%20Involvement%20Type.png)
 
 ### Lighting Condition Impact
 
