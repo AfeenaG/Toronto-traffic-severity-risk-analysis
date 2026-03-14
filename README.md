@@ -33,6 +33,8 @@ Older adults are much more vulnerable in collisions.
 
 Collisions occurring during **dusk with artificial lighting** are nearly **twice as likely** to result in severe injury compared to daylight conditions.
 
+![Time](Images/Env1-Impact%20of%20Lighting%20Condition%20on%20Severity%20Odds_Redo)
+
 ### Rush Hour Increases Severity Risk
 
 Morning commuting hours (6:00–8:59 AM) have the **highest predicted probability of severe injuries**.
