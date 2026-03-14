@@ -17,7 +17,7 @@ The results provide actionable insights that can support **transportation planne
 ### Vulnerable Road Users Face the Greatest Risk
 
 Pedestrians, cyclists, moped drivers, and motorcyclists face **13–34 times higher odds** of severe injury compared to drivers.
-![User](Images/User01-Predictive%20Probability%20of%20Severe%20Injury%20By%20Age%20Range_Redo.png)
+
 ### Age Significantly Increases Injury Severity
 
 Older adults are much more vulnerable in collisions.
@@ -26,7 +26,7 @@ Older adults are much more vulnerable in collisions.
 
   * Age 25–29 → **74%**
   * Age 75–79 → **83%**
-
+![User](Images/User01-Predictive%20Probability%20of%20Severe%20Injury%20By%20Age%20Range_Redo.png)
 ### Dusk Lighting Creates Dangerous Conditions
 
 Collisions occurring during **dusk with artificial lighting** are nearly **twice as likely** to result in severe injury compared to daylight conditions.
