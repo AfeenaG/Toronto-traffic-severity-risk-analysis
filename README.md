@@ -192,7 +192,7 @@ Dusk lighting conditions significantly increase injury severity risk.
 
 ### Time-of-Day Risk Patterns
 
-Morning rush hour exhibits the highest predicted probabilities of severe injury.
+Noon rush hour exhibits the highest predicted probabilities of severe injury.
 
 ![Rush Hour](Images/Time01-Predicted%20Probability%20of%20Severe%20Injury%20by%20Time%20of%20Day_Redo.png)
 ### Month Patterns
