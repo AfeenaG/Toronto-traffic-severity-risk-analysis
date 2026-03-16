@@ -240,17 +240,21 @@ toronto-traffic-injury-risk-analysis
 │   └── TorontoCity_traffic_collisions_KPI_Modified.csv
 │
 ├── notebooks
-│   ├── data_cleaning.ipynb
-│   ├── feature_engineering.ipynb
-│   ├── logistic_regression_models.ipynb
+│   ├── Wrangler.ipynb
+│   ├── MakeSlices.ipynb
+│   ├── Summaries.ipynb
+│   ├── RegressionUser.ipynb
+│   ├── RegressionTime.ipynb
+│   ├── RegressionEnv.ipynb
+│   ├── Charts.ipynb
 │
 ├── visualizations
-│   ├── age_probability_chart.png
-│   ├── involvement_odds_chart.png
-│   ├── lighting_condition_chart.png
-│   ├── road_surface_probability_chart.png
-│   ├── month_probability_chart.png
-│   └── time_of_day_probability_chart.png
+│   ├── User01-Predictive Probability of Severe Injury By Age Range_Redo.png
+│   ├── Time02-Predicted Probability of Severe Injury by Month_Redo.png
+│   ├── Env1-Impact of Lighting Condition on Severity Odds_Redo.png 
+│   ├── Time01-Predicted Probability of Severe Injury by Time of Day_Redo.png
+│   ├── Env2-Predicted Probability by Road Surface Condition_Redo.png
+│   └── Toronto_Collision_Severity_Dashboard.png
 │
 ├── outputs
 │   ├── model_results.csv
