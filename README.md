@@ -178,26 +178,26 @@ The analysis includes several charts used to communicate findings.
 ### Predicted Probability of Severe Injury by Age
 
 Older adults show steadily increasing injury risk.
-![User](Images/User01-Predictive%20Probability%20of%20Severe%20Injury%20By%20Age%20Range_Redo.png)
+![User](Visualizations/User01-Predictive%20Probability%20of%20Severe%20Injury%20By%20Age%20Range_Redo.png)
 ### Relative Odds by Involvement Type
 
 Pedestrians, cyclists, and motorcyclists face dramatically higher odds of severe injury.
 
-![User](Images/User02-Relative%20Odds%20Of%20Severe%20Injury%20By%20Involvement%20Type.png)
+![User](Visualizations/User02-Relative%20Odds%20Of%20Severe%20Injury%20By%20Involvement%20Type.png)
 
 ### Lighting Condition Impact
 
 Dusk lighting conditions significantly increase injury severity risk.
-![Environment](Images/Env1-Impact%20of%20Lighting%20Condition%20on%20Severity%20Odds_Redo.png)
+![Environment](Visualizations/Env1-Impact%20of%20Lighting%20Condition%20on%20Severity%20Odds_Redo.png)
 
 ### Time-of-Day Risk Patterns
 
 Noon rush hour exhibits the highest predicted probabilities of severe injury.
 
-![Rush Hour](Images/Time01-Predicted%20Probability%20of%20Severe%20Injury%20by%20Time%20of%20Day_Redo.png)
+![Rush Hour](Visualizations/Time01-Predicted%20Probability%20of%20Severe%20Injury%20by%20Time%20of%20Day_Redo.png)
 ### Month Patterns
 
-![Months](Images/Time02-Predicted%20Probability%20of%20Severe%20Injury%20by%20Month_Redo.png)
+![Months](Visualizations/Time02-Predicted%20Probability%20of%20Severe%20Injury%20by%20Month_Redo.png)
 ---
 
 # Managerial Insights
