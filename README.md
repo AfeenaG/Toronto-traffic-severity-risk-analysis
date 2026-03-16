@@ -257,10 +257,20 @@ toronto-traffic-injury-risk-analysis
 │   └── Toronto_Collision_Severity_Dashboard.png
 │
 ├── outputs
-│   ├── model_results.csv
-│   ├── predicted_probabilities.csv
-│   └── statistical_tables.xlsx
-│
+│   ├── EnvModelA_LightAnalysis.xlsx
+│   ├── EnvModelA_Stats.csv
+│   └── EnvModelB_RoadAnalysis.xlsx
+│   └── EnvModelB_Stats.csv
+│   └── TimeModelA_PeakAnalysis.xlsx
+│   └── TimeModelA_Stats.csv
+│   └── TimeModelB_SeasonAnalysis.xlsx
+│   └── TimeModelB_Stats.csv
+│   └── TimeModelC_MonthAnalysis.xlsx
+│   └── TimeModelC_Stats.csv
+│   └── TimeModelD_HourAnalysis.xlsx
+│   └── TimeModelE_Stats.csv
+│   └── TimeModelE_TimeRangeAnalysis.xlsx
+
 └── report
     └── full_analysis_report.pdf
 ```
