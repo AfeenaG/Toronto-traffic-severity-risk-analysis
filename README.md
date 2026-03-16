@@ -291,6 +291,7 @@ Matplotlib / Visualization Libraries
 The data and supporting files are here:
 
 https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis/tree/main/data
+
 https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis/tree/main/outputs
 
 ---
