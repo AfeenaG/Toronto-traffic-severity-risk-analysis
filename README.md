@@ -288,12 +288,10 @@ Matplotlib / Visualization Libraries
 ---
 
 # Data and Code Availability
+The data and supporting files are here:
 
-All code, datasets, and outputs used in this analysis are available in the repository.
-
-Additional supporting files can be accessed here:
-
-https://drive.google.com/drive/folders/1t6MoUdou-3VU8HN0dL1emab5bXMtExD1
+https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis/tree/main/data
+https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis/tree/main/outputs
 
 ---
 
