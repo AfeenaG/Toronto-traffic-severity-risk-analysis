@@ -229,12 +229,6 @@ The findings suggest several **targeted safety interventions**.
 These interventions support Toronto’s **Vision Zero strategy**, which aims to eliminate severe traffic injuries and fatalities.
 
 ---
-# Conclusion
-
-Logistic regression analysis demonstrates that vulnerable road users (VRUs)—specifically pedestrians, cyclists, and motorized two-wheeler riders—experience 13 to 34 times higher odds of severe injury than vehicle occupants. Age is a critical determinant of outcome severity; the predicted probability of severe injury increases from 74% at age 25 to 83% at age 75, with the 20–24 age cohort also identified as a high-risk demographic. Furthermore, temporal and environmental factors significantly influence risk levels, with peak danger occurring during morning and midday rush hours, under artificial dusk lighting, and during the winter months (October through January).
-
-![Visualizations](Visualizations/Toronto_Collision_Severity_Dashboard.png)
-
 # Project Structure
 
 ```text
@@ -319,6 +313,7 @@ The results reinforce the importance of:
 
 Together, these strategies contribute to the long-term objective of **eliminating severe traffic injuries across the city.**
 
+![Visualizations](Visualizations/Toronto_Collision_Severity_Dashboard.png)
 ---
 
 # Author
