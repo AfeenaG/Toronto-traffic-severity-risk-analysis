@@ -1,0 +1,40 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:           SevereInjury   No. Observations:                10044
+Model:                          Logit   Df Residuals:                    10035
+Method:                           MLE   Df Model:                            8
+Date:                Wed, 15 Oct 2025   Pseudo R-squ.:                0.001838
+Time:                        11:55:16   Log-Likelihood:                -5770.7
+converged:                      False   LL-Null:                       -5781.3
+Covariance Type:            nonrobust   LLR p-value:                  0.006512
+================================================================================================================
+                                                   coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------
+Intercept                                        1.0207      0.025     40.485      0.000       0.971       1.070
+EnvRoadSurfaceCondition_Ice                     -0.8723      0.274     -3.183      0.001      -1.409      -0.335
+EnvRoadSurfaceCondition_Loose_Sand_or_Gravel     0.0779      0.817      0.095      0.924      -1.523       1.679
+EnvRoadSurfaceCondition_Loose_Snow              -0.3116      0.221     -1.411      0.158      -0.744       0.121
+EnvRoadSurfaceCondition_Other                    0.7085      0.328      2.159      0.031       0.065       1.352
+EnvRoadSurfaceCondition_Packed_Snow              0.2602      0.506      0.514      0.607      -0.732       1.252
+EnvRoadSurfaceCondition_Slush                   -0.1179      0.307     -0.384      0.701      -0.720       0.484
+EnvRoadSurfaceCondition_Spilled_liquid          18.4203   1.67e+04      0.001      0.999   -3.26e+04    3.27e+04
+EnvRoadSurfaceCondition_Wet                      0.1037      0.062      1.663      0.096      -0.019       0.226
+================================================================================================================RoadSurface,PredProb_Severe
+EnvRoadSurfaceCondition_Spilled_liquid,0.9999999963954558
+EnvRoadSurfaceCondition_Other,0.8493150684931507
+EnvRoadSurfaceCondition_Packed_Snow,0.7826086956521738
+EnvRoadSurfaceCondition_Wet,0.7548192771084339
+EnvRoadSurfaceCondition_Loose_Sand_or_Gravel,0.75
+EnvRoadSurfaceCondition_Slush,0.7115384615384616
+EnvRoadSurfaceCondition_Loose_Snow,0.6702127659574468
+EnvRoadSurfaceCondition_Ice,0.537037037037037
+OR,2.5%,97.5%,pval
+99965487.57016926,0.0,inf,0.9991176057115012
+2.7752336448661756,2.641427320431314,2.9158181730094177,0.0
+2.030951032461784,1.0675515624449117,3.863759130107998,0.030836760095194052
+1.2971880787981707,0.48102143296088895,3.4981745021596704,0.6072021563673771
+1.1093206816367114,0.9816634723283001,1.2535786543918463,0.09625893217241284
+1.0809900656651428,0.21801545843959033,5.359892965528033,0.9240491853587993
+0.8888140539913396,0.4868337245269954,1.6227109642826607,0.7011498414167645
+0.7322835928699352,0.4750144378199138,1.1288904456200939,0.15825323777262068
+0.4179828253905218,0.24426616987184083,0.7152428943111867,0.001458926010261389
